@@ -1,10 +1,10 @@
-// Package single
-// File     single_test.go
+// Package double
+// File     double_test.go
 //
 // Created by lt on 2021/6/29
 // Copyright © 2020-2020 lt. All rights reserved.
 
-package single
+package double
 
 import (
 	"reflect"
@@ -17,12 +17,12 @@ func TestConstructor(t *testing.T) {
 		want LinkedList
 	}{
 		{
-			want: NewSingleLinkedList(),
+			want: NewDoubleLinkList(),
 		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := NewSingleLinkedList(); !reflect.DeepEqual(got, tt.want) {
+			if got := NewDoubleLinkList(); !reflect.DeepEqual(got, tt.want) {
 				t.Errorf("NewSingleLinkedList() = %v, want %v", got, tt.want)
 			}
 		})
@@ -43,7 +43,7 @@ func TestLinkedList_AddAtHead(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			l := NewSingleLinkedList()
+			l := NewDoubleLinkList()
 			l.AddAtHead(tt.args.val)
 			if got := l.Get(0); got != tt.args.val {
 				t.Errorf("AddAtHead() = %v, want %v", got, tt.args.val)
@@ -70,7 +70,7 @@ func TestLinkedList_AddAtIndex(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			s := NewSingleLinkedList()
+			s := NewDoubleLinkList()
 			for i := 0; i < 10; i++ {
 				s.AddAtIndex(i, i)
 			}
@@ -96,7 +96,7 @@ func TestLinkedList_AddAtTail(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			s := NewSingleLinkedList()
+			s := NewDoubleLinkList()
 			for i := 0; i < 10; i++ {
 				s.AddAtIndex(i, i)
 			}
@@ -123,7 +123,7 @@ func TestLinkedList_DeleteAtIndex(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			s := NewSingleLinkedList()
+			s := NewDoubleLinkList()
 			for i := 0; i < 10; i++ {
 				s.AddAtIndex(i, i)
 			}
@@ -158,7 +158,7 @@ func TestLinkedList_Get(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			s := NewSingleLinkedList()
+			s := NewDoubleLinkList()
 			for i := 0; i < 10; i++ {
 				s.AddAtIndex(i, i)
 			}
