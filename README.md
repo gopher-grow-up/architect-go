@@ -1,13 +1,13 @@
-<h1>《后端架构师技术图谱》</h1>
-后端架构师技术图谱go版本
+<h1>《Go 工程师成长之路》</h1>
+本仓库基于[architect-awesome](https://github.com/xingshaocheng/architect-awesome)编写，由于原仓库部分是Java知识，所以本仓库按照architect-awesome思路改为Go版本
 ---
-Fork by https://github.com/xingshaocheng/architect-awesome
 
 [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
 - [数据结构](https://github.com/NSObjects/architect-awesome/blob/master/README.md#数据结构)
   - [x] [队列](https://github.com/NSObjects/architect-awesome/blob/master/README.md#队列)
   - [ ] [集合](https://github.com/NSObjects/architect-awesome/blob/master/README.md#集合)
+  - [ ] [堆](https://github.com/NSObjects/architect-awesome/blob/master/README.md#集合)
   - [x] [链表、数组](https://github.com/NSObjects/architect-awesome/blob/master/README.md#链表数组)
   - [ ] [字典、关联数组](https://github.com/NSObjects/architect-awesome/blob/master/README.md#字典关联数组)
   - [x] [栈](https://github.com/NSObjects/architect-awesome/blob/master/README.md#栈)
