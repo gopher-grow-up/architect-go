@@ -1,6 +1,8 @@
 <h1>《Go 工程师成长之路》</h1>
-本仓库基于[architect-awesome](https://github.com/xingshaocheng/architect-awesome)编写，由于原仓库部分是Java知识，所以本仓库按照architect-awesome思路改为Go版本
+
 ---
+
+# 本仓库基于 [architect-awesome](https://github.com/xingshaocheng/architect-awesome) 编写，由于原仓库部分是Java知识，所以本仓库按照architect-awesome思路改为Go版本
 
 [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
