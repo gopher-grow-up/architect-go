@@ -7,7 +7,7 @@
 [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
 
-# Go相关资料 https://github.com/NSObjects/awesome-go-book
+# [相关书籍](https://github.com/NSObjects/awesome-go-book)
 
 - [数据结构](https://github.com/NSObjects/architect-awesome/blob/master/README.md#数据结构)
   - [x] [队列](https://github.com/NSObjects/architect-awesome/blob/master/README.md#队列)
