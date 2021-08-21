@@ -6,13 +6,16 @@
 
 [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
+
+# [相关书籍](https://github.com/NSObjects/awesome-go-book)
+
 - [数据结构](https://github.com/NSObjects/architect-awesome/blob/master/README.md#数据结构)
   - [x] [队列](https://github.com/NSObjects/architect-awesome/blob/master/README.md#队列)
   - [ ] [哈希表](https://github.com/NSObjects/architect-awesome/blob/master/README.md#集合)
   - [ ] [集合](https://github.com/NSObjects/architect-awesome/blob/master/README.md#集合)
-  - [ ] [堆](https://github.com/NSObjects/architect-awesome/blob/master/README.md#集合)
+  - [x] [堆](https://github.com/NSObjects/architect-awesome/blob/master/README.md#集合)
   - [x] [链表、数组](https://github.com/NSObjects/architect-awesome/blob/master/README.md#链表数组)
-  - [ ] [字典、关联数组](https://github.com/NSObjects/architect-awesome/blob/master/README.md#字典关联数组)
+  - [x] [字典、关联数组](https://github.com/NSObjects/architect-awesome/blob/master/README.md#字典关联数组)
   - [x] [栈](https://github.com/NSObjects/architect-awesome/blob/master/README.md#栈)
   - [ ] [树](https://github.com/NSObjects/architect-awesome/blob/master/README.md#树)
     - [ ] [二叉树](https://github.com/NSObjects/architect-awesome/blob/master/README.md#二叉树)
