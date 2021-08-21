@@ -13,4 +13,5 @@
 
 ### 设计哈希表
 [705 设计哈希集合](https://github.com/gopher-grow-up/architect-go/blob/main/has-table/705.md)
+
 [706 设计哈希映射](https://github.com/gopher-grow-up/architect-go/blob/main/has-table/706.md)
