@@ -29,7 +29,7 @@
 - [常用算法](https://github.com/NSObjects/architect-awesome/blob/master/README.md#常用算法)
   - [排序、查找算法](https://github.com/NSObjects/architect-awesome/blob/master/README.md#排序查找算法)
     - [ ] [选择排序](https://github.com/NSObjects/architect-awesome/blob/master/README.md#选择排序)
-    - [ ] [冒泡排序](https://github.com/NSObjects/architect-awesome/blob/master/README.md#冒泡排序)
+    - [x] [冒泡排序](https://github.com/gopher-grow-up/architect-go/blob/main/algorithm/bubble-sort/README.md#冒泡排序)
     - [ ] [插入排序](https://github.com/NSObjects/architect-awesome/blob/master/README.md#插入排序)
     - [ ] [快速排序](https://github.com/NSObjects/architect-awesome/blob/master/README.md#快速排序)
     - [ ] [归并排序](https://github.com/NSObjects/architect-awesome/blob/master/README.md#归并排序)
