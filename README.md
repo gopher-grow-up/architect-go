@@ -11,7 +11,7 @@
 
 - [数据结构](https://github.com/NSObjects/architect-awesome/blob/master/README.md#数据结构)
   - [x] [队列](https://github.com/NSObjects/architect-awesome/blob/master/README.md#队列)
-  - [ ] [哈希表](https://github.com/NSObjects/architect-awesome/blob/master/README.md#集合)
+  - [ ] [哈希表](https://github.com/gopher-grow-up/architect-go/blob/main/has-table/README.md#哈希表)
   - [ ] [集合](https://github.com/NSObjects/architect-awesome/blob/master/README.md#集合)
   - [x] [堆](https://github.com/NSObjects/architect-awesome/blob/master/README.md#集合)
   - [x] [链表、数组](https://github.com/NSObjects/architect-awesome/blob/master/README.md#链表数组)
