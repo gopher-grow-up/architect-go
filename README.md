@@ -8,6 +8,7 @@
 
 - [数据结构](https://github.com/NSObjects/architect-awesome/blob/master/README.md#数据结构)
   - [x] [队列](https://github.com/NSObjects/architect-awesome/blob/master/README.md#队列)
+  - [ ] [哈希表](https://github.com/NSObjects/architect-awesome/blob/master/README.md#集合)
   - [ ] [集合](https://github.com/NSObjects/architect-awesome/blob/master/README.md#集合)
   - [ ] [堆](https://github.com/NSObjects/architect-awesome/blob/master/README.md#集合)
   - [x] [链表、数组](https://github.com/NSObjects/architect-awesome/blob/master/README.md#链表数组)
