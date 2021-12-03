@@ -84,3 +84,5 @@ func (l *LinkedList) DeleteAtIndex(index int) {
 		cur.Next.Next.Prev = cur
 	}
 }
+
+

@@ -1,9 +1,3 @@
-// Package select_sort
-// File     sort_test.go
-// ..Description
-// Created by mac on 2021/8/21
-// Copyright © 2020-2020 ZYKEJ. All rights reserved.
-
 package select_sort
 
 import (
